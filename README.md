@@ -8,6 +8,7 @@ To run the collecter, you need to run the following code in the terminal.
 news-please -resume -c config
 ```
 **-c** flag used to refer to the configuration folder path
+
 **-resume** flag used to allow resuming the download
 
 # Working Path
