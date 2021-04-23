@@ -1,5 +1,5 @@
 # Grep Arabic News
-Using [news-please](https://github.com/fhamborg/news-please/)  to download the news artical form the arabic news websit.
+Using [news-please](https://github.com/fhamborg/news-please/)  to download the news articles form the arabic news websit.
 This is a pre-configration set for that.
 
 # How it working
